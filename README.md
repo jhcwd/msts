@@ -6,7 +6,7 @@ MSTS新平台解决方案
 
 目前由于硬件平台的逐渐更新，导致在新平台上MSTS出现各种各样的兼容性问题。解决方案如下。
 
-With the update of hardware,errors occur in thr running of MSTS.This document aims to solve this problem.
+With the update of hardware,errors occur in the running of MSTS.This document aims to solve this problem.
 
 ## 第一步：检测硬件/Check your hardware
 这一步的目的在于检测电脑平台（主要是显卡）是AMD平台还是Nvida平台
