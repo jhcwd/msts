@@ -49,9 +49,9 @@ Notice that your computer may have more than one graphic!
 
 ###对于AMD显卡用户/For ATI Graphics users
 
->请使用补丁修复MSTS，即可完美运行游戏
+>请使用补丁修复MSTS，即可完美运行游戏。但是部分新显卡仍然会出现问题。
 
->Use patches to fix MSTS so that your game can run perfectly.
+>Use patches to fix MSTS so that your game can run perfectly.But some new graphics may have problems.
 
 >补丁下载地址/Download link of patches：
 
